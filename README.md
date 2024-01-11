@@ -1,1 +1,3 @@
-# Tik-Tac-Toe-
+# Tik-Tac-Toe
+
+This my javascript -> project
